@@ -1,0 +1,16 @@
+[debug] [2025-03-10T03:10:14.718Z] ----------------------------------------------------------------------
+[debug] [2025-03-10T03:10:14.728Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Comlab\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2025-03-10T03:10:14.729Z] CLI Version:   13.32.0
+[debug] [2025-03-10T03:10:14.729Z] Platform:      win32
+[debug] [2025-03-10T03:10:14.729Z] Node Version:  v22.14.0
+[debug] [2025-03-10T03:10:14.729Z] Time:          Mon Mar 10 2025 11:10:14 GMT+0800 (China Standard Time)
+[debug] [2025-03-10T03:10:14.730Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-10T03:10:15.000Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-10T03:10:15.000Z] > authorizing via signed-in user (acortel@ssct.edu.ph)
+[debug] [2025-03-10T03:10:15.001Z] [iam] checking project cortel-porfolio for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2025-03-10T03:10:15.002Z] Checked if tokens are valid: false, expires at: 1741570463276
+[debug] [2025-03-10T03:10:15.002Z] Checked if tokens are valid: false, expires at: 1741570463276
+[debug] [2025-03-10T03:10:15.002Z] > refreshing access token with scopes: []
+[debug] [2025-03-10T03:10:15.004Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-03-10T03:10:15.004Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
